@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  border:solid black 2px;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+}
